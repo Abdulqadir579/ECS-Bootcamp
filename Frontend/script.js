@@ -1,4 +1,4 @@
-const apiUrl = 'http://ecs-demo-alb-1019953154.eu-central-1.elb.amazonaws.com'; // Replace with actual backend endpoint
+const apiUrl = 'https://back.trainwithqadir.com'; // Replace with actual backend endpoint
 
 let userId = null;
 let userEmail = null;
